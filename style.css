@@ -1,0 +1,56 @@
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #fff0f5;
+    color: #5e2b2b;
+  }
+  
+  h1, h2 {
+    font-family: 'Satisfy', cursive;
+  }
+  
+  
+  header {
+    background-color: #f9c5bd;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  nav a {
+    margin: 0 1rem;
+    text-decoration: 'Satisfy' ;
+    color: #5e2b2b;
+    font-weight: bold;
+  }
+  
+  .container {
+    padding: 2rem;
+  }
+  
+  .produk-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .produk-item {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    width: 250px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .produk-item img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  
+  footer {
+    text-align: 'Satisf';
+    padding: 1rem;
+    background: #f3eae6;
+    margin-top: 2rem;
+  }
+  
